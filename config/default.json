@@ -1,0 +1,23 @@
+{
+  "PORT": 5050,
+  "orclpdb": {
+    "hrPool": {
+      "user": "hr",
+      "password": "hr",
+      "connectString": " localhost/orclpdb",
+      "poolMin": 10,
+      "poolMax": 10,
+      "poolIncrement": 0
+    }
+  },
+  "JWT_KEY": "aosiyrgntoaiuhsdmf",
+  "telegram": {
+    "token": "1804116804:AAHGJgXs_BspBAGqa-i73XVK0i2HiJ9jRd8",
+    "JWT_KEY": "928w374ht9wx8734htj9w87eghrj87w349867gtvqn03847gt0wx8q734gtj8w6q73g4x8q6wg34t867gqwoxk87gktow8743"
+  },
+  "freeMaxViews": 5,
+  "paidMaxViews": 5,
+  "getFreeCarsCrone": "* * * * *",
+  "getPaidCarsCrone": "* * * * *",
+  "useProxy": true
+}

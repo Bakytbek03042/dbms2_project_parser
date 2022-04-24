@@ -1,0 +1,16 @@
+require("./almatyParser");
+require("./akmlOblParser");
+require("./aktOblParser");
+require("./almOblParser");
+require("./atyrOblParser");
+require("./kostOblParser");
+require("./kzlOblParser");
+require("./mangOblParser");
+require("./nurSultanParser");
+require("./pavlOblParser");
+require("./shymkentParser");
+require("./skOblParser");
+require("./vkoOblParser");
+require("./yukOblParser");
+require("./zhamOblParser");
+require("./zkOblParser");
